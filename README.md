@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 Welcome to my Github page! I am Miguel, and I am from Portugal.<br>
-I am a student who is exploring Full-stack Developement.<br>
+I am a student who is exploring Full-stack Development.<br>
 
 ---
 #### More
